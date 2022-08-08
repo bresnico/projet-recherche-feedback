@@ -2,18 +2,29 @@ project:
   type: website
 
 website:
-  title: "projet-recherche-feedback"
+  favicon: "img/logo.png"
+  title: "La Règle du Feedback - Projet de Recherche"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - design.qmd
+      - consentements.qmd
+      - survey.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+    - cosmo
+    - custom.scss
     css: styles.css
     toc: true
+    toc-title: "Accès direct"
+
+
+margin-header: |
+  ![](img/hepvs.png)
 
 
 
