@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "projet-recherche-feedback",
-    "section": "",
-    "text": "Ce site regroupes les informations concernant… …"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "A propos",
-    "section": "",
-    "text": "Ce site est réalisé par … suite…."
-  },
-  {
     "objectID": "design.html#variables",
     "href": "design.html#variables",
     "title": "Design de la recherche",
@@ -54,6 +40,20 @@
     "title": "Participer à la récolte de données",
     "section": "",
     "text": "mettre le lien vers un éventuel questionnaire ?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "projet-recherche-feedback",
+    "section": "",
+    "text": "Ce site regroupes les informations concernant… …"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "A propos",
+    "section": "",
+    "text": "Ce site est réalisé par … suite…."
   },
   {
     "objectID": "about.html#nous-contacter",
